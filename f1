@@ -1,7 +1,18 @@
 
+
 this is developer2 changes
-this is java program
+thiis is java program
 class
 {
 system.out.println("merge conflicts occured")
+
+
+developper one created
+by developer one
+public class HelloWorld
+{
+public static void main(string[] args)
+{
+system.out.println("hello world");
+}
 }
